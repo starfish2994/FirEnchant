@@ -93,7 +93,7 @@ allprojects {
         compileOnly(rootProject.libs.bundles.mysql) // Mysql Bundles
         // 依赖库
         compileOnly(rootProject.libs.bundles.rtag) // RTag Bundles
-        implementation(files("libs/MHDF-Scheduler-1.0.1.jar")) // Scheduler
+        implementation(files("$rootDir/libs/MHDF-Scheduler-1.0.1.jar")) // Scheduler
 
         // 兼容
         compileOnly(rootProject.libs.placeholderapi) // PlaceholderAPI
