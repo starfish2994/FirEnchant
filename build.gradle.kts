@@ -77,7 +77,7 @@ allprojects {
         maven("https://repo.momirealms.net/releases/") // CustomCrops, CustomFishing, CraftEngine
         maven("https://repo.extendedclip.com/content/repositories/placeholderapi/") // PlaceholderAPI
         maven("https://repo.catnies.top/releases/") // Catnies
-        maven("https://repo-eo.catnies.top/mhdf") // ChengZhiMeow
+        maven("https://maven.chengzhimeow.cn/releases") // ChengZhiMeow
         maven("https://repo.nightexpressdev.com/releases") // CoinsEngine
     }
 
