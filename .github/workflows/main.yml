@@ -2,10 +2,6 @@ name: Build Plugin
 
 # 触发条件：推送代码或创建 Pull Request 时
 on:
-  push:
-分支: [ main, dev ]  # 根据实际分支名调整
-  pull_request:
-分支: [ main, dev ]
   workflow_dispatch:
 
 jobs:
