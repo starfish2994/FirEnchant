@@ -90,7 +90,7 @@ invui23-kotlin = { module = "xyz.xenondevs.invui:invui-kotlin",  version.ref = "
 nexo = { module = "com.nexomc:nexo", version.ref = "nexo" }
 oraxen = { module = "io.th0rgal:oraxen", version.ref = "oraxen" }
 mythicmobs = { module = "io.lumine:Mythic-Dist", version.ref = "mythicmobs" }
-itemsadder = { module = "dev.lone:api-itemsadder", version.ref = "itemsadder" }
+itemsadder = { module = "dev.lone:itemsadder-api", version.ref = "itemsadder" }
 craftengine-core = { module = "net.momirealms:craft-engine-core", version.ref = "craftengine" }
 craftengine-bukkit = { module = "net.momirealms:craft-engine-bukkit", version.ref = "craftengine" }
 customcrops = { module = "net.momirealms:custom-crops", version.ref = "customcrops" }
